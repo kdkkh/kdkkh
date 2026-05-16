@@ -55,4 +55,4 @@ Case study (2020–2022) of two anti-detection browser automation systems for li
 
 ---
 
-*This profile is the entry point. The work is in the linked repositories.*
+*This profile is the entry point. The work is in the linked repositories. Recent writing at [kdkkh.github.io](https://kdkkh.github.io).*
